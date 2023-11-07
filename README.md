@@ -1,0 +1,1 @@
+# AWS-to-Snowflake-Continuous-Ingestion-Snowpipe
